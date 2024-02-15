@@ -127,3 +127,14 @@ section #text span {
     font-size: 1em;
     color: #fff;
 }
+
+footer {
+    position: relative;
+    padding: 0px 100px;
+    background: var(--primary);
+}
+
+footer a {
+    text-decoration: none;
+    color: #fff;
+}
